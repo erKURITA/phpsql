@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpunit/phpunit": "3.7.25",
+        "phpunit/php-code-coverage": "1.2.13"
+    }
+}
